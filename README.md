@@ -25,11 +25,7 @@
 <img src="https://img.shields.io/github/followers/eshawahid?style=for-the-badge&labelColor=020617&color=1d4ed8&label=FOLLOWERS"/>
 <img src="https://img.shields.io/github/stars/eshawahid?style=for-the-badge&labelColor=020617&color=0ea5e9&label=STARS"/>
 
-</div>
 
-<img src="https://raw.githubusercontent.com/eshawahid/eshawahid/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<div align="center">
 
 ## ⟡ &nbsp; ABOUT &nbsp; ⟡
 
