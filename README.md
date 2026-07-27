@@ -310,7 +310,7 @@ Ongoing      ▸  Co-Founder — Carvo (AI Automotive Platform)
 <table>
 <tr><td align="center">🥉<br/><b>BizzTech 2025</b><br/><sub>3rd Place Nationwide</sub></td>
 <td align="center">🏅<br/><b>Hult Prize 2025</b><br/><sub>Top 50 Nationwide</sub></td>
-<td align="center">🤖<br/><b>AI Wrapper Comp.</b><br/><sub>Top 10 (Ignite × NIC)</sub></td>
+<td align="center">🤖<br/><b>AI Wrapper Comp.</b><br/><sub>Top 10 (NIC-National Incubation Centre Islamabad)</sub></td>
 <td align="center">📊<br/><b>SOFTEC, FAST Lahore</b><br/><sub>Data Visualization</sub></td></tr>
 </table>
 
