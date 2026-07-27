@@ -1,381 +1,394 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Eisha%20Wahid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descSize=18&descAlignY=55" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=BS+Artificial+Intelligence+Graduate;Computer+Vision+%7C+Generative+AI+%7C+LLMs;Full+Stack+AI+Product+Engineer;Co-Founder+%40+Carvo" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=EISHA%20WAHID&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-![Academic](https://img.shields.io/badge/BS%20Artificial%20Intelligence-Air%20University-8b5cf6?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Islamabad-Pakistan-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=B794F6&center=true&vCenter=true&width=750&lines=%3E+Building+production-grade+AI+systems;%3E+Computer+Vision+%7C+Generative+AI+%7C+LLMs;%3E+Co-Founder+%40+Carvo;%3E+BS+Artificial+Intelligence+%E2%80%94+Air+University" alt="Typing SVG"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://eishawahid-portfolio-pc2p-ntgpoq75y-eishawahids-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eisha-wahid)
-[![Email](https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eishawahid25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshawahid)
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/status-open_to_work-6c3ce9?style=for-the-badge&labelColor=0d0221&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/based_in-Islamabad,_Pakistan-6c3ce9?style=for-the-badge&labelColor=0d0221&color=6366f1"/>
+<img src="https://img.shields.io/badge/graduating-2026-6c3ce9?style=for-the-badge&labelColor=0d0221&color=a78bfa"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=eshawahid&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/eshawahid?style=flat-square&color=6366f1&label=Followers)
-![Stars](https://img.shields.io/github/stars/eshawahid?style=flat-square&color=a78bfa&label=Stars)
+<br/><br/>
+
+<a href="https://eishawahid-portfolio-pc2p-ntgpoq75y-eishawahids-projects.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e&color=6d28d9"/></a>
+<a href="https://linkedin.com/in/eisha-wahid"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e&color=4f46e5"/></a>
+<a href="mailto:eishawahid25@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e&color=7c3aed"/></a>
+<a href="https://github.com/eshawahid"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e&color=8b5cf6"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=eshawahid&style=for-the-badge&color=8b5cf6&labelColor=0d0221&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/eshawahid?style=for-the-badge&labelColor=0d0221&color=6366f1&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/eshawahid?style=for-the-badge&labelColor=0d0221&color=a78bfa&label=STARS"/>
 
 </div>
 
----
-
-## 🧠 About Me
-
-```yaml
-name: "Eisha Wahid"
-role: "AI/ML Engineer & Full Stack Developer"
-education: "BS Artificial Intelligence — Air University, Islamabad (2022–2026)"
-focus: ["Computer Vision", "Generative AI & LLMs", "Applied Machine Learning"]
-philosophy: "Take models from experimentation to production, not just notebooks"
-```
-
-Fresh **BS Artificial Intelligence** graduate driven to build intelligent solutions for
-real-world problems — from facial recognition to phishing detection — using Python,
-Scikit-learn, TensorFlow, and PyTorch. Experienced across the full data science lifecycle,
-with a track record of taking models from experimentation to production in collaboration
-with cross-functional teams. Also co-founding an AI automotive startup on the side.
-
-**Open To**
-- 🔭 AI/ML Engineer & Computer Vision roles
-- 🎯 Full Stack + AI product engineering positions
-- 🤝 Collaboration on applied ML / Generative AI projects
-- 💬 Conversations about RAG, AI agents, and production ML systems
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark" /> ![SQL](https://img.shields.io/badge/SQL-8b5cf6?style=flat-square&logo=postgresql&logoColor=white)
-
-**Generative AI & LLMs**
-
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-7c3aed?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-6366f1?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8b5cf6?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-a78bfa?style=flat-square)
-
-**AI / ML Frameworks**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" /> ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-8b5cf6?style=flat-square) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Backend & Frontend**
-
-<img src="https://skillicons.dev/icons?i=flask,react,docker&theme=dark" /> ![REST APIs](https://img.shields.io/badge/REST%20APIs-6366f1?style=flat-square)
-
-**Data, Cloud & Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,aws,gcp&theme=dark" /> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
----
-
-## 🤖 AI / ML Expertise
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Computer Vision** | ⭐⭐⭐⭐⭐ | ArcFace-based facial recognition, body-shape detection, garment alignment |
-| **Generative AI & LLMs** | ⭐⭐⭐⭐⭐ | RAG pipelines with FAISS, OpenAI API, prompt engineering, AI agents |
-| **Applied Machine Learning** | ⭐⭐⭐⭐⭐ | Classification (Scikit-learn, XGBoost), predictive modeling, feature engineering |
-| **Model Deployment** | ⭐⭐⭐⭐☆ | Flask REST APIs, real-time inference optimization, production testing |
-| **Full Stack Integration** | ⭐⭐⭐⭐☆ | React frontends powering live ML/AI backends |
+## ⟡ &nbsp; ABOUT &nbsp; ⟡
 
 </div>
 
----
+<table align="center">
+<tr>
+<td width="100%">
 
-## 🚀 Featured Projects
+```py
+class EishaWahid:
+    def __init__(self):
+        self.role         = "AI/ML Engineer & Full Stack Developer"
+        self.education    = "BS Artificial Intelligence, Air University (2022-2026)"
+        self.currently    = "Co-Founder @ Carvo — AI Automotive Platform"
+        self.specialties  = ["Computer Vision", "Generative AI", "LLMs & RAG"]
+        self.mission      = "Ship real AI products, not just notebooks"
 
-<details>
-<summary><b>👗 FitLens — AI-Powered Virtual Fashion Platform</b></summary>
+    def say_hi(self):
+        print("Fresh AI grad who takes models from")
+        print("experimentation → production. From facial")
+        print("recognition to phishing detection, I build")
+        print("intelligent systems that actually ship.")
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`🔭  Open to AI/ML Engineer & Computer Vision roles`
+`🎯  Open to Full Stack + AI hybrid positions`
+`🤝  Open to collaboration on Generative AI / RAG projects`
+
+</div>
+
 <br/>
 
-Full-stack computer vision-based virtual try-on system with body-shape detection and
-garment alignment, served live via a React frontend. Final Year Project — deployed.
+<div align="center">
 
-| Aspect | Detail |
+## ⟡ &nbsp; TECH ARSENAL &nbsp; ⟡
+
+</div>
+
+<div align="center">
+
+**LANGUAGES**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark&perline=8" />
+<img src="https://img.shields.io/badge/SQL-4f46e5?style=flat-square&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+**GENERATIVE AI & LLMs**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-6366f1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-a78bfa?style=flat-square"/>
+
+<br/><br/>
+
+**ML / DL FRAMEWORKS**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=8" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
+<br/><br/>
+
+**FULL STACK & DEVOPS**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,react,docker,git,github,aws,gcp&theme=dark&perline=8" />
+
+<br/><br/>
+
+**DATA & DASHBOARDING**
+<br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## ⟡ &nbsp; DOMAIN PROFICIENCY &nbsp; ⟡
+
+<table>
+<tr><td width="230"><b>Computer Vision</b></td><td>
+
+![](https://progress-bar.dev/95/?color=a78bfa&width=350)
+</td></tr>
+<tr><td><b>Generative AI & LLMs</b></td><td>
+
+![](https://progress-bar.dev/95/?color=8b5cf6&width=350)
+</td></tr>
+<tr><td><b>Applied Machine Learning</b></td><td>
+
+![](https://progress-bar.dev/90/?color=7c3aed&width=350)
+</td></tr>
+<tr><td><b>Model Deployment</b></td><td>
+
+![](https://progress-bar.dev/85/?color=6d28d9&width=350)
+</td></tr>
+<tr><td><b>Full Stack Integration</b></td><td>
+
+![](https://progress-bar.dev/80/?color=6366f1&width=350)
+</td></tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<div align="center">
+
+## ⟡ &nbsp; FEATURED BUILDS &nbsp; ⟡
+
+</div>
+
+<details open>
+<summary><b>&nbsp;👗&nbsp; FitLens — AI-Powered Virtual Fashion Platform</b> &nbsp; <img src="https://img.shields.io/badge/status-deployed-8b5cf6?style=flat-square"/></summary>
+<br/>
+
+Full-stack computer-vision virtual try-on system with body-shape detection and garment
+alignment, served live through a React frontend. Final Year Project.
+
+| | |
 |---|---|
-| **Stack** | React, OpenCV, Flask, REST APIs |
-| **Scale** | Full-stack FYP, deployed live |
-| **Performance** | Real-time outfit mix-and-match previews via low-latency Flask APIs |
-| **Security** | Backend-served inference, no client-side model exposure |
-| **Impact** | AI-driven styling recommendations based on body type, skin tone & preference; reverse image search for garment alignment |
-| **Repository** | [Virtual-Try-On-Frontend](https://github.com/eshawahid/Virtual-Try-On-Frontend) |
+| **Stack** | `React` `OpenCV` `Flask` `REST APIs` |
+| **Scale** | Full-stack FYP — deployed live |
+| **Performance** | Real-time outfit previews via low-latency Flask APIs |
+| **Security** | Server-side inference, no client-exposed model |
+| **Impact** | AI styling recs by body type, skin tone & preference + reverse-image garment alignment |
+| **Repo** | [`Virtual-Try-On-Frontend`](https://github.com/eshawahid/Virtual-Try-On-Frontend) |
 
 </details>
 
 <details>
-<summary><b>💬 Mental Health Support Chatbot</b></summary>
+<summary><b>&nbsp;💬&nbsp; Mental Health Support Chatbot</b> &nbsp; <img src="https://img.shields.io/badge/status-deployed-8b5cf6?style=flat-square"/></summary>
 <br/>
 
-Generative AI conversational chatbot using the OpenAI API and a RAG pipeline with FAISS
-vector search for context-aware, semantically accurate multi-turn conversations.
+Generative AI chatbot powered by the OpenAI API and a RAG pipeline with FAISS vector
+search — context-aware, semantically accurate, multi-turn.
 
-| Aspect | Detail |
+| | |
 |---|---|
-| **Stack** | Generative AI, RAG, OpenAI API, FAISS, Prompt Engineering |
+| **Stack** | `Generative AI` `RAG` `OpenAI API` `FAISS` `Prompt Engineering` |
 | **Scale** | Multi-turn conversational deployment |
-| **Performance** | Reduced hallucinations via advanced prompt engineering |
-| **Security** | Designed for sensitive, high-stakes conversations |
+| **Performance** | Hallucinations reduced via advanced prompt engineering |
+| **Security** | Built for sensitive, high-stakes conversations |
 | **Impact** | Adaptive, context-retaining dialogue for personalized support |
-| **Repository** | `[Add repo link]` |
+| **Repo** | `[Add repo link]` |
 
 </details>
 
 <details>
-<summary><b>🔐 Anti-Phishing URL Detection System</b></summary>
+<summary><b>&nbsp;🔐&nbsp; Anti-Phishing URL Detection System</b> &nbsp; <img src="https://img.shields.io/badge/accuracy-93--95%25-8b5cf6?style=flat-square"/></summary>
 <br/>
 
-ML classification system for malicious URL detection, built and deployed end-to-end
-at Siberkoza (2024).
+ML classification system for malicious URL detection, shipped end-to-end at Siberkoza.
 
-| Aspect | Detail |
+| | |
 |---|---|
-| **Stack** | Scikit-learn, XGBoost, Flask, REST APIs |
-| **Scale** | Production cybersecurity application with frontend testing interface |
-| **Performance** | ~93–95% detection accuracy via domain & lexical feature engineering |
-| **Security** | Purpose-built for phishing/malicious URL detection |
-| **Impact** | Minimized false positives for real-world phishing threat scenarios |
-| **Repository** | `[Add repo link]` |
+| **Stack** | `Scikit-learn` `XGBoost` `Flask` `REST APIs` |
+| **Scale** | Production cybersecurity app + frontend testing UI |
+| **Performance** | ~93–95% detection accuracy via feature engineering |
+| **Security** | Purpose-built for phishing/malicious-URL detection |
+| **Impact** | Minimized false positives on real-world threats |
+| **Repo** | `[Add repo link]` |
 
 </details>
 
 <details>
-<summary><b>🧑‍💻 Facial Recognition Authentication System</b></summary>
+<summary><b>&nbsp;🧑‍💻&nbsp; Facial Recognition Authentication System</b> &nbsp; <img src="https://img.shields.io/badge/model-ArcFace-8b5cf6?style=flat-square"/></summary>
 <br/>
 
 Real-time ArcFace-based deep learning facial recognition system for enterprise identity
-verification, built at Siberkoza (2024).
+verification, built at Siberkoza.
 
-| Aspect | Detail |
+| | |
 |---|---|
-| **Stack** | Deep Learning, ArcFace, Python |
+| **Stack** | `Deep Learning` `ArcFace` `Python` |
 | **Scale** | Live enterprise infrastructure integration |
-| **Performance** | Tuned for inference speed & accuracy under reliability standards |
-| **Security** | Secure backend APIs with robust access-control/authentication logic |
-| **Impact** | Production-ready identity verification for enterprise use |
-| **Repository** | `[Add repo link]` |
+| **Performance** | Tuned for inference speed & accuracy at production reliability |
+| **Security** | Secure backend APIs + access-control/auth logic |
+| **Impact** | Production-ready identity verification |
+| **Repo** | `[Add repo link]` |
 
 </details>
 
 <details>
-<summary><b>🌦️ Weather Prediction System</b></summary>
+<summary><b>&nbsp;🌦️&nbsp; Weather Prediction System</b> &nbsp; <img src="https://img.shields.io/badge/status-deployed-8b5cf6?style=flat-square"/></summary>
 <br/>
 
-End-to-end IoT + ML pipeline: real-time environmental sensor data via Arduino, feature
-engineering, model training, and a live analytics dashboard.
+End-to-end IoT + ML pipeline: live sensor data via Arduino → feature engineering →
+trained model → interactive dashboard.
 
-| Aspect | Detail |
+| | |
 |---|---|
-| **Stack** | IoT, Arduino, Machine Learning, Streamlit |
-| **Scale** | Full pipeline ownership — raw sensor data to deployment |
+| **Stack** | `IoT` `Arduino` `Machine Learning` `Streamlit` |
+| **Scale** | Full pipeline ownership — raw data to deployment |
 | **Performance** | Real-time prediction serving |
-| **Security** | N/A — public environmental data |
-| **Impact** | Accessible live analytics via interactive Streamlit dashboard |
-| **Repository** | `[Add repo link]` |
+| **Impact** | Live analytics accessible via Streamlit dashboard |
+| **Repo** | `[Add repo link]` |
 
 </details>
 
 <details>
-<summary><b>💊 AI Prescription Analyzer</b></summary>
+<summary><b>&nbsp;💊&nbsp; AI Prescription Analyzer</b></summary>
 <br/>
 
-AI tool that reads and interprets medical prescriptions to extract medicine and dosage
-information, reducing misreading errors.
+AI tool reading and interpreting medical prescriptions to extract medicine & dosage info.
 
-| Aspect | Detail |
+| | |
 |---|---|
-| **Stack** | Python, OCR, Computer Vision |
+| **Stack** | `Python` `OCR` `Computer Vision` |
 | **Impact** | Reduces manual prescription-reading errors |
-| **Repository** | [AI-Prescription-Analyzer](https://github.com/eshawahid/AI-Prescription-Analyzer) |
+| **Repo** | [`AI-Prescription-Analyzer`](https://github.com/eshawahid/AI-Prescription-Analyzer) |
 
 </details>
 
 <details>
-<summary><b>🎙️ Voice Age Estimation (ML)</b></summary>
+<summary><b>&nbsp;🎙️&nbsp; Voice Age Estimation (ML)</b></summary>
 <br/>
 
-ML model estimating a speaker's age range from voice/audio features using signal
-processing techniques.
+ML model estimating speaker age range from voice/audio features via signal processing.
 
-| Aspect | Detail |
+| | |
 |---|---|
-| **Stack** | Python, Audio Feature Extraction, ML |
+| **Stack** | `Python` `Audio Feature Extraction` `ML` |
 | **Impact** | Applied signal-processing ML demonstration |
-| **Repository** | [Voice-Age-Estimation-ML](https://github.com/eshawahid/Voice-Age-Estimation-ML) |
+| **Repo** | [`Voice-Age-Estimation-ML`](https://github.com/eshawahid/Voice-Age-Estimation-ML) |
 
 </details>
 
----
-
-## 💼 Experience
-
-**AI & Automation Intern · NexGen Guards**
-`2024 (4 Months) · Islamabad`
-
-Delivered production AI systems for client Siberkoza, collaborating in cross-functional
-teams to meet enterprise requirements.
-
-**Scope of work:**
-- Delivered 2 production AI systems for Siberkoza as a technical intern
-- Engineered and tested 5–8 Python-based AI automation workflows, reducing manual operational effort by ~40%
-- Built real-time AI task execution scripts and automated workflow monitoring tools
-- Optimized data pipelines for reliability and throughput, cutting inference latency in production
-- Performed end-to-end model testing, debugging, and deployment of AI-powered applications
-
-`Python` `AI Automation` `MLOps` `Workflow Engineering`
-
----
-
-**Co-Founder · Carvo**
-`Ongoing · AI Automotive Platform`
-
-Leading technical development of an AI-powered application for predictive vehicle
-maintenance and diagnostics.
-
-**Scope of work:**
-- Designing backend AI agent workflows and recommendation systems
-- Building the mechanic-matching / user connection system
-- Researching emerging AI technologies for automotive diagnostics
-- Driving continuous product iteration and real-world validation
-
-`AI Agents` `Product Strategy` `Backend Development`
-
----
-
-**Event Manager & Host · Air University, Islamabad**
-`2022 – 2024`
-
-Organized and led national hackathons, AI competitions, and technical seminars.
-
-**Scope of work:**
-- Coordinated multidisciplinary teams of developers and stakeholders for high-impact events
-- Served as Deputy Director (Documentation) for one of the university's largest tech events
-- Core Member, AUDAS Society (2024–Present)
-
-`Leadership` `Event Management` `Community Building`
-
----
-
-## 🏆 Achievements
+<br/>
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🥉 **BizzTech 2025** | 3rd Position Nationwide |
-| 🏅 **Hult Prize 2025** | Top 50 Nationwide |
-| 🤖 **AI Wrapper Competition (Ignite x NIC)** | Top 10 Nationwide |
-| 📊 **SOFTEC — FAST Lahore** | Data Visualization |
+## ⟡ &nbsp; EXPERIENCE TIMELINE &nbsp; ⟡
 
 </div>
 
----
+```
+2024 (4 mo)  ▸  AI & Automation Intern — NexGen Guards, Islamabad
+                • Delivered 2 production AI systems for client Siberkoza
+                • Built 5–8 Python AI-automation workflows, cutting manual effort ~40%
+                • Real-time AI task execution + automated workflow monitoring
+                • Optimized data pipelines, cutting inference latency in production
+                • End-to-end model testing, debugging & deployment
 
-## 📜 Certifications
+Ongoing      ▸  Co-Founder — Carvo (AI Automotive Platform)
+                • Leading tech dev for predictive vehicle maintenance & diagnostics
+                • Designing backend AI agent workflows + mechanic-matching system
+                • Researching emerging AI tech for automotive diagnostics
 
-**PMI**
+2022 – 2024  ▸  Event Manager & Host — Air University, Islamabad
+                • Led national hackathons, AI competitions & technical seminars
+                • Deputy Director (Documentation), largest university tech event
+                • Core Member, AUDAS Society (2024–Present)
+```
 
-![PMI](https://img.shields.io/badge/Generative%20AI%20Overview%20for%20Project%20Managers-8b5cf6?style=flat-square&logo=projectmanagement&logoColor=white)
-![PMI](https://img.shields.io/badge/Seven%20AI%20Project%20Patterns-7c3aed?style=flat-square)
-![PMI](https://img.shields.io/badge/Prompt%20Engineering%20for%20PMs-6366f1?style=flat-square)
-
-**DataCamp**
-
-![DataCamp](https://img.shields.io/badge/Machine%20Learning-05192D?style=flat-square&logo=datacamp&logoColor=03E17E)
-
-**DigitalFlare**
-
-![DigitalFlare](https://img.shields.io/badge/Graphic%20Design-a78bfa?style=flat-square)
-
----
-
-## 📊 GitHub Analytics
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eshawahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshawahid&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
+## ⟡ &nbsp; ACHIEVEMENTS &nbsp; ⟡
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshawahid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="49%"/>
+<table>
+<tr><td align="center">🥉<br/><b>BizzTech 2025</b><br/><sub>3rd Place Nationwide</sub></td>
+<td align="center">🏅<br/><b>Hult Prize 2025</b><br/><sub>Top 50 Nationwide</sub></td>
+<td align="center">🤖<br/><b>AI Wrapper Comp.</b><br/><sub>Top 10 (Ignite × NIC)</sub></td>
+<td align="center">📊<br/><b>SOFTEC, FAST Lahore</b><br/><sub>Data Visualization</sub></td></tr>
+</table>
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=eshawahid&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+## ⟡ &nbsp; CERTIFICATIONS &nbsp; ⟡
+
+**PMI** &nbsp;
+<img src="https://img.shields.io/badge/Gen_AI_Overview_for_PMs-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/7_AI_Project_Patterns-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Eng_for_PMs-6366f1?style=flat-square"/>
+
+<br/><br/>
+
+**DataCamp** &nbsp; <img src="https://img.shields.io/badge/Machine_Learning-05192D?style=flat-square&logo=datacamp&logoColor=03E17E"/>
+&nbsp;&nbsp; **DigitalFlare** &nbsp; <img src="https://img.shields.io/badge/Graphic_Design-a78bfa?style=flat-square"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshawahid&theme=react-dark&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&hide_border=true" width="100%"/>
+## ⟡ &nbsp; GITHUB ANALYTICS &nbsp; ⟡
+
+<img src="https://github-readme-stats.vercel.app/api?username=eshawahid&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=b794f6&icon_color=8b5cf6&text_color=e0d9f5&ring_color=6d28d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshawahid&theme=radical&hide_border=true&background=0d0221&ring=8b5cf6&fire=b794f6&currStreakLabel=b794f6" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshawahid&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=b794f6&text_color=e0d9f5&langs_count=8" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=eshawahid&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=2" width="48%"/>
 
 </div>
 
----
+<div align="center">
 
-## 🐍 Contribution Snake
+## ⟡ &nbsp; CONTRIBUTION ACTIVITY &nbsp; ⟡
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshawahid&theme=react-dark&bg_color=0d0221&color=b794f6&line=8b5cf6&point=ffffff&hide_border=true&area=true" width="100%"/>
+
+</div>
 
 <div align="center">
+
+## ⟡ &nbsp; CONTRIBUTION SNAKE &nbsp; ⟡
 
 <img src="https://raw.githubusercontent.com/eshawahid/eshawahid/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
+<sub>Requires the snake-animation GitHub Action set up on this repo — ask if you want that workflow file too.</sub>
+
 </div>
 
----
+<br/>
 
-## 🎯 Current Focus
+<div align="center">
+
+## ⟡ &nbsp; CURRENT FOCUS &nbsp; ⟡
 
 ```yaml
-learning:
-  - Advanced RAG architectures & AI agent orchestration
-  - MLOps & scalable model deployment
-building:
-  - Carvo — AI-powered predictive vehicle maintenance platform
-  - Production-grade computer vision & generative AI applications
-exploring:
-  - Multimodal AI systems
-  - LLM fine-tuning
-open_to:
-  - AI/ML Engineer roles
-  - Computer Vision Engineer roles
-  - Full Stack + AI hybrid positions
+learning:   [Advanced RAG architectures, AI agent orchestration, MLOps at scale]
+building:   [Carvo — AI predictive vehicle maintenance, production CV/GenAI apps]
+exploring:  [Multimodal AI systems, LLM fine-tuning]
+open_to:    [AI/ML Engineer, Computer Vision Engineer, Full Stack + AI roles]
 ```
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eishawahid25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eisha-wahid)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshawahid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://eishawahid-portfolio-pc2p-ntgpoq75y-eishawahids-projects.vercel.app/)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%">
 
 <div align="center">
 
-*"From experimentation to production — that's where the real work happens."*
+### 💜 *"From experimentation to production — that's where the real work happens."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer"/>
+
+<sub>© 2026 Eisha Wahid — crafted with intent, not templates.</sub>
 
 </div>
