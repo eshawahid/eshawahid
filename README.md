@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e3a5f&height=280&section=header&text=EISHA%20WAHID&fontSize=70&fontColor=e2e8f0&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=280&section=header&text=EISHA%20WAHID&fontSize=70&fontColor=e2e8f0&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -379,7 +379,7 @@ open_to:    [AI/ML Engineer, Computer Vision Engineer, Full Stack + AI roles]
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e3a5f&height=100&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=100&section=header" width="100%">
 
 <div align="center">
 
@@ -387,7 +387,7 @@ open_to:    [AI/ML Engineer, Computer Vision Engineer, Full Stack + AI roles]
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e3a5f&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=180&section=footer"/>
 
 <sub>© 2026 Eisha Wahid — crafted with intent, not templates.</sub>
 
