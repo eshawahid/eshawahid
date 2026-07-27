@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=EISHA%20WAHID&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e3a5f&height=280&section=header&text=EISHA%20WAHID&fontSize=70&fontColor=e2e8f0&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=B794F6&center=true&vCenter=true&width=750&lines=%3E+Building+production-grade+AI+systems;%3E+Computer+Vision+%7C+Generative+AI+%7C+LLMs;%3E+Co-Founder+%40+Carvo;%3E+BS+Artificial+Intelligence+%E2%80%94+Air+University" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=%3E+Building+production-grade+AI+systems;%3E+Computer+Vision+%7C+Generative+AI+%7C+LLMs;%3E+Co-Founder+%40+Carvo;%3E+BS+Artificial+Intelligence+%E2%80%94+Air+University" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/status-open_to_work-6c3ce9?style=for-the-badge&labelColor=0d0221&color=8b5cf6"/>
-<img src="https://img.shields.io/badge/based_in-Islamabad,_Pakistan-6c3ce9?style=for-the-badge&labelColor=0d0221&color=6366f1"/>
-<img src="https://img.shields.io/badge/graduating-2026-6c3ce9?style=for-the-badge&labelColor=0d0221&color=a78bfa"/>
+<img src="https://img.shields.io/badge/status-open_to_work-1e3a5f?style=for-the-badge&labelColor=020617&color=2563eb"/>
+<img src="https://img.shields.io/badge/based_in-Islamabad,_Pakistan-1e3a5f?style=for-the-badge&labelColor=020617&color=1d4ed8"/>
+<img src="https://img.shields.io/badge/graduating-2026-1e3a5f?style=for-the-badge&labelColor=020617&color=0ea5e9"/>
 
 <br/><br/>
 
-<a href="https://eishawahid-portfolio-pc2p-ntgpoq75y-eishawahids-projects.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e&color=6d28d9"/></a>
-<a href="https://linkedin.com/in/eisha-wahid"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e&color=4f46e5"/></a>
-<a href="mailto:eishawahid25@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e&color=7c3aed"/></a>
-<a href="https://github.com/eshawahid"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e&color=8b5cf6"/></a>
+<a href="https://eishawahid-portfolio-pc2p-ntgpoq75y-eishawahids-projects.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617&color=1d4ed8"/></a>
+<a href="https://linkedin.com/in/eisha-wahid"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617&color=2563eb"/></a>
+<a href="mailto:eishawahid25@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617&color=1e40af"/></a>
+<a href="https://github.com/eshawahid"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=0ea5e9"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=eshawahid&style=for-the-badge&color=8b5cf6&labelColor=0d0221&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/eshawahid?style=for-the-badge&labelColor=0d0221&color=6366f1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/eshawahid?style=for-the-badge&labelColor=0d0221&color=a78bfa&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=eshawahid&style=for-the-badge&color=2563eb&labelColor=020617&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/eshawahid?style=for-the-badge&labelColor=020617&color=1d4ed8&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/eshawahid?style=for-the-badge&labelColor=020617&color=0ea5e9&label=STARS"/>
 
 </div>
 
@@ -80,17 +80,17 @@ class EishaWahid:
 **LANGUAGES**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark&perline=8" />
-<img src="https://img.shields.io/badge/SQL-4f46e5?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white"/>
 
 <br/><br/>
 
 **GENERATIVE AI & LLMs**
 <br/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-6366f1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI_Agents-a78bfa?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-2563eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-1d4ed8?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-0ea5e9?style=flat-square"/>
 
 <br/><br/>
 
@@ -98,7 +98,7 @@ class EishaWahid:
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=8" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-1e40af?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
 <br/><br/>
@@ -128,23 +128,23 @@ class EishaWahid:
 <table>
 <tr><td width="230"><b>Computer Vision</b></td><td>
 
-![](https://progress-bar.dev/95/?color=a78bfa&width=350)
+![](https://progress-bar.dev/95/?color=0ea5e9&width=350)
 </td></tr>
 <tr><td><b>Generative AI & LLMs</b></td><td>
 
-![](https://progress-bar.dev/95/?color=8b5cf6&width=350)
+![](https://progress-bar.dev/95/?color=2563eb&width=350)
 </td></tr>
 <tr><td><b>Applied Machine Learning</b></td><td>
 
-![](https://progress-bar.dev/90/?color=7c3aed&width=350)
+![](https://progress-bar.dev/90/?color=1d4ed8&width=350)
 </td></tr>
 <tr><td><b>Model Deployment</b></td><td>
 
-![](https://progress-bar.dev/85/?color=6d28d9&width=350)
+![](https://progress-bar.dev/85/?color=1e40af&width=350)
 </td></tr>
 <tr><td><b>Full Stack Integration</b></td><td>
 
-![](https://progress-bar.dev/80/?color=6366f1&width=350)
+![](https://progress-bar.dev/80/?color=1e3a5f&width=350)
 </td></tr>
 </table>
 
@@ -159,7 +159,7 @@ class EishaWahid:
 </div>
 
 <details open>
-<summary><b>&nbsp;👗&nbsp; FitLens — AI-Powered Virtual Fashion Platform</b> &nbsp; <img src="https://img.shields.io/badge/status-deployed-8b5cf6?style=flat-square"/></summary>
+<summary><b>&nbsp;👗&nbsp; FitLens — AI-Powered Virtual Fashion Platform</b> &nbsp; <img src="https://img.shields.io/badge/status-deployed-2563eb?style=flat-square"/></summary>
 <br/>
 
 Full-stack computer-vision virtual try-on system with body-shape detection and garment
@@ -177,7 +177,7 @@ alignment, served live through a React frontend. Final Year Project.
 </details>
 
 <details>
-<summary><b>&nbsp;💬&nbsp; Mental Health Support Chatbot</b> &nbsp; <img src="https://img.shields.io/badge/status-deployed-8b5cf6?style=flat-square"/></summary>
+<summary><b>&nbsp;💬&nbsp; Mental Health Support Chatbot</b> &nbsp; <img src="https://img.shields.io/badge/status-deployed-2563eb?style=flat-square"/></summary>
 <br/>
 
 Generative AI chatbot powered by the OpenAI API and a RAG pipeline with FAISS vector
@@ -195,7 +195,7 @@ search — context-aware, semantically accurate, multi-turn.
 </details>
 
 <details>
-<summary><b>&nbsp;🔐&nbsp; Anti-Phishing URL Detection System</b> &nbsp; <img src="https://img.shields.io/badge/accuracy-93--95%25-8b5cf6?style=flat-square"/></summary>
+<summary><b>&nbsp;🔐&nbsp; Anti-Phishing URL Detection System</b> &nbsp; <img src="https://img.shields.io/badge/accuracy-93--95%25-2563eb?style=flat-square"/></summary>
 <br/>
 
 ML classification system for malicious URL detection, shipped end-to-end at Siberkoza.
@@ -212,7 +212,7 @@ ML classification system for malicious URL detection, shipped end-to-end at Sibe
 </details>
 
 <details>
-<summary><b>&nbsp;🧑‍💻&nbsp; Facial Recognition Authentication System</b> &nbsp; <img src="https://img.shields.io/badge/model-ArcFace-8b5cf6?style=flat-square"/></summary>
+<summary><b>&nbsp;🧑‍💻&nbsp; Facial Recognition Authentication System</b> &nbsp; <img src="https://img.shields.io/badge/model-ArcFace-2563eb?style=flat-square"/></summary>
 <br/>
 
 Real-time ArcFace-based deep learning facial recognition system for enterprise identity
@@ -230,7 +230,7 @@ verification, built at Siberkoza.
 </details>
 
 <details>
-<summary><b>&nbsp;🌦️&nbsp; Weather Prediction System</b> &nbsp; <img src="https://img.shields.io/badge/status-deployed-8b5cf6?style=flat-square"/></summary>
+<summary><b>&nbsp;🌦️&nbsp; Weather Prediction System</b> &nbsp; <img src="https://img.shields.io/badge/status-deployed-2563eb?style=flat-square"/></summary>
 <br/>
 
 End-to-end IoT + ML pipeline: live sensor data via Arduino → feature engineering →
@@ -321,14 +321,14 @@ Ongoing      ▸  Co-Founder — Carvo (AI Automotive Platform)
 ## ⟡ &nbsp; CERTIFICATIONS &nbsp; ⟡
 
 **PMI** &nbsp;
-<img src="https://img.shields.io/badge/Gen_AI_Overview_for_PMs-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/7_AI_Project_Patterns-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt_Eng_for_PMs-6366f1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gen_AI_Overview_for_PMs-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/7_AI_Project_Patterns-1d4ed8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Eng_for_PMs-2563eb?style=flat-square"/>
 
 <br/><br/>
 
 **DataCamp** &nbsp; <img src="https://img.shields.io/badge/Machine_Learning-05192D?style=flat-square&logo=datacamp&logoColor=03E17E"/>
-&nbsp;&nbsp; **DigitalFlare** &nbsp; <img src="https://img.shields.io/badge/Graphic_Design-a78bfa?style=flat-square"/>
+&nbsp;&nbsp; **DigitalFlare** &nbsp; <img src="https://img.shields.io/badge/Graphic_Design-0ea5e9?style=flat-square"/>
 
 </div>
 
@@ -338,11 +338,11 @@ Ongoing      ▸  Co-Founder — Carvo (AI Automotive Platform)
 
 ## ⟡ &nbsp; GITHUB ANALYTICS &nbsp; ⟡
 
-<img src="https://github-readme-stats.vercel.app/api?username=eshawahid&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=b794f6&icon_color=8b5cf6&text_color=e0d9f5&ring_color=6d28d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshawahid&theme=radical&hide_border=true&background=0d0221&ring=8b5cf6&fire=b794f6&currStreakLabel=b794f6" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eshawahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=2563eb&text_color=cbd5e1&ring_color=1d4ed8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshawahid&theme=tokyonight&hide_border=true&background=020617&ring=2563eb&fire=38bdf8&currStreakLabel=38bdf8" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshawahid&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=b794f6&text_color=e0d9f5&langs_count=8" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=eshawahid&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=2" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshawahid&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1&langs_count=8" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=eshawahid&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=2" width="48%"/>
 
 </div>
 
@@ -350,7 +350,7 @@ Ongoing      ▸  Co-Founder — Carvo (AI Automotive Platform)
 
 ## ⟡ &nbsp; CONTRIBUTION ACTIVITY &nbsp; ⟡
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshawahid&theme=react-dark&bg_color=0d0221&color=b794f6&line=8b5cf6&point=ffffff&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshawahid&theme=tokyo-night&bg_color=020617&color=38bdf8&line=2563eb&point=ffffff&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -379,15 +379,15 @@ open_to:    [AI/ML Engineer, Computer Vision Engineer, Full Stack + AI roles]
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e3a5f&height=100&section=header" width="100%">
 
 <div align="center">
 
-### 💜 *"From experimentation to production — that's where the real work happens."*
+### 🔷 *"From experimentation to production — that's where the real work happens."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e3a5f&height=180&section=footer"/>
 
 <sub>© 2026 Eisha Wahid — crafted with intent, not templates.</sub>
 
