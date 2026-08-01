@@ -41,7 +41,7 @@ class EishaWahid:
         self.role         = "AI/ML Engineer & Full Stack Developer"
         self.education    = "BS Artificial Intelligence, Air University (2022-2026)"
         self.currently    = "Co-Founder @ Carvo — AI Automotive Platform"
-        self.specialties  = ["Computer Vision", "Generative AI", "LLMs & RAG"]
+        self.specialties  = ["Computer Vision", "Generative AI", "LLMs & RAG", "Machine Learning", "Data Scientist"]
         self.mission      = "Ship real AI products, not just notebooks"
 
     def say_hi(self):
